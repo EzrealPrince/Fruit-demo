@@ -1,0 +1,17 @@
+{
+    "code":200,
+    "msg":"获取成功",
+    "type": "swiperBox",
+    "data|1-20":[
+        {
+            "pic": "@image('200x100', 'Hello Mock.js!')",
+            "number|1-5":1,
+            "title":"@ctitle(5,12)",
+            "desc":"@ctitle(8,14)",
+            "salePrice|100-300.2":10,
+            "sourcePrice|1-100.2":1,
+            "buyPeoples|300-5000":300,
+            "unit":"@cword('个只斤篮桶瓶盒')"
+        }
+    ]
+}

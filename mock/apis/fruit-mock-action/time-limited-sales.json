@@ -1,0 +1,18 @@
+{
+    "code":200,
+    "msg":"获取成功",
+    "type": "hotSell",
+    "data|1-30":[
+        {
+            "endTime|100-172800": 100,
+            "pic": "@image('200x100', 'Hello Mock.js!')",
+            "number|1-5":1,
+            "title":"@ctitle(5,8)",
+            "desc":"@ctitle(10,13)",
+            "salePrice|100-300.2":10,
+            "sourcePrice|1-100.2":1,
+            "buyPeoples|300-5000":300,
+            "unit":"@cword('个只斤篮桶瓶盒')"
+        }
+    ]
+}

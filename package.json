@@ -1,0 +1,19 @@
+{
+  "name": "demo-test",
+  "version": "1.0.0",
+  "description": "test study",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development node ./build/start.js"
+  },
+  "author": "zhaodan",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.4",
+    "http-proxy": "^1.17.0",
+    "mockjs": "^1.0.1-beta3",
+    "open": "0.0.5"
+  }
+}
